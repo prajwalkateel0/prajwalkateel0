@@ -127,6 +127,38 @@ expertise:
 
 ---
 
+### 🏥 HealthSphere (React) — Full-Stack Healthcare Platform
+[![HealthSphere-React](https://github-readme-stats.vercel.app/api/pin/?username=prajwalkateel0&repo=HealthSphere-React&theme=tokyonight)](https://github.com/prajwalkateel0/HealthSphere-React)
+
+> Full-stack healthcare platform with 4 portals and 37 pages — React, Node/Express, PostgreSQL, Prisma, Stripe, Socket.IO
+
+| Feature | Details |
+|---------|---------|
+| 👥 Portals | Patient · Doctor · Admin · Government Analyst |
+| 🗂️ Pages | 37 pages across all portals |
+| 💳 Payments | Stripe payment intents |
+| 🔌 Realtime | Socket.IO messaging |
+| ☁️ Hosting | Vercel (frontend) · Render (backend) · Neon (Postgres) |
+
+**Stack:** `React` `Node.js` `Express` `PostgreSQL` `Prisma` `Stripe` `Socket.IO`
+
+---
+
+### 🎓 Viva Coordination System
+[![viva-coordination-system](https://github-readme-stats.vercel.app/api/pin/?username=prajwalkateel0&repo=viva-coordination-system&theme=tokyonight)](https://github.com/prajwalkateel0/viva-coordination-system)
+
+> Web app for planning and scheduling MSc viva examinations — generates conflict-free slots across student, supervisor, second-marker and room availability
+
+| Feature | Details |
+|---------|---------|
+| 👥 Roles | Admin · Staff · Student |
+| 🧮 Scheduling | Conflict-free slot generation across students, supervisors and rooms |
+| ☁️ Hosting | Vercel (frontend) · Render (backend) · Neon (Postgres) |
+
+**Stack:** `React` `Flask` `SQLAlchemy` `PostgreSQL`
+
+---
+
 ### 📋 Placement Management System — University of Leicester
 > Role-based web application for full university placement lifecycle management
 
