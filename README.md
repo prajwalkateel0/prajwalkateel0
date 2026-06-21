@@ -10,6 +10,7 @@ Full-Stack Web Developer | MSc Computer Science
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajwalkateel0)
 [![Location](https://img.shields.io/badge/Leicester%2C_UK-📍-blue?style=for-the-badge)](https://maps.google.com/?q=Leicester,UK)
 [![Live Project](https://img.shields.io/badge/Live_Project-HealthSphere-00B388?style=for-the-badge&logo=google-chrome&logoColor=white)](https://healthsphere.info/HealthSphere)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-c9a84c?style=for-the-badge&logo=vercel&logoColor=white)](https://prajwalportfoliofullstack.vercel.app/)
 
 </div>
 
@@ -278,6 +279,7 @@ expertise:
 | 💼 LinkedIn | [linkedin.com/in/prajwalkateel0](https://linkedin.com/in/prajwalkateel0) |
 | 🌍 Location | Leicester, LE1 5SP, UK |
 | 🏥 Live Project | [healthsphere.info/HealthSphere](https://healthsphere.info/HealthSphere) |
+| 💻 Portfolio | [prajwalportfoliofullstack.vercel.app](https://prajwalportfoliofullstack.vercel.app/) |
 
 </div>
 
