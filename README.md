@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Prajwal 👋
-### PHP Developer | Full-Stack Web Developer | MSc Computer Science
+Full-Stack Web Developer | MSc Computer Science
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=777BB4&center=true&vCenter=true&width=700&lines=PHP+Full-Stack+Developer;7%2B+Years+Enterprise+Application+Development;REST+APIs+%7C+MySQL+%7C+CI%2FCD+%7C+AI+Integration;NHS+Healthcare+Platform+%7C+Secure+Voting+System)](https://git.io/typing-svg)
 
