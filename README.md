@@ -6,7 +6,7 @@ Full-Stack Web Developer | MSc Computer Science
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=777BB4&center=true&vCenter=true&width=700&lines=PHP+Full-Stack+Developer;7%2B+Years+Enterprise+Application+Development;REST+APIs+%7C+MySQL+%7C+CI%2FCD+%7C+AI+Integration;NHS+Healthcare+Platform+%7C+Secure+Voting+System)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalkateel0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalkateel0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-k-a13b0a370/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajwalkateel0)
 [![Location](https://img.shields.io/badge/Leicester%2C_UK-📍-blue?style=for-the-badge)](https://maps.google.com/?q=Leicester,UK)
 [![Live Project](https://img.shields.io/badge/Live_Project-HealthSphere-00B388?style=for-the-badge&logo=google-chrome&logoColor=white)](https://healthsphere.info/HealthSphere)
@@ -276,7 +276,7 @@ expertise:
 |---|---|
 | 📧 Email | [prajwalkateel0@gmail.com](mailto:prajwalkateel0@gmail.com) |
 | 📱 Phone | +44 07810638593 |
-| 💼 LinkedIn | [linkedin.com/in/prajwalkateel0](https://linkedin.com/in/prajwalkateel0) |
+| 💼 LinkedIn | [linkedin.com/in/prajwal-k-a13b0a370](https://www.linkedin.com/in/prajwal-k-a13b0a370/) |
 | 🌍 Location | Leicester, LE1 5SP, UK |
 | 🏥 Live Project | [healthsphere.info/HealthSphere](https://healthsphere.info/HealthSphere) |
 | 💻 Portfolio | [prajwalportfoliofullstack.vercel.app](https://prajwalportfoliofullstack.vercel.app/) |
